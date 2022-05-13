@@ -1,0 +1,7 @@
+D:\Sharpdevelop\projects\KAZY GRABBER\KAZY GRABBER\obj\Debug\KAZY GRABBER.csprojResolveAssemblyReference.cache
+D:\Sharpdevelop\projects\KAZY GRABBER\KAZY GRABBER\obj\Debug\KAZY_GRABBER.MainForm.resources
+D:\Sharpdevelop\projects\KAZY GRABBER\KAZY GRABBER\obj\Debug\KAZY GRABBER.csproj.GenerateResource.Cache
+D:\Sharpdevelop\projects\KAZY GRABBER\KAZY GRABBER\bin\Debug\KAZY GRABBER.exe
+D:\Sharpdevelop\projects\KAZY GRABBER\KAZY GRABBER\bin\Debug\KAZY GRABBER.pdb
+D:\Sharpdevelop\projects\KAZY GRABBER\KAZY GRABBER\obj\Debug\KAZY GRABBER.exe
+D:\Sharpdevelop\projects\KAZY GRABBER\KAZY GRABBER\obj\Debug\KAZY GRABBER.pdb
